@@ -1,0 +1,4 @@
+services:
+#    entreprise_souscription.example:
+#        class: Entreprise\Bundle\SouscriptionBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

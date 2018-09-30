@@ -1,3 +1,8 @@
+entreprise_souscription:
+    resource: "@EntrepriseSouscriptionBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
 app:
     resource: '@AppBundle/Controller/'
     type: annotation
